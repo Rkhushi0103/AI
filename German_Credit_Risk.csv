@@ -1,0 +1,21 @@
+Age,Sex,Job,Housing,Saving accounts,Checking account,Credit amount,Duration,Purpose,Risk
+67,male,2,own,little,little,1169,6,radio/TV,good
+22,female,2,own,little,moderate,5951,48,radio/TV,bad
+49,male,1,own,little,little,2096,12,education,good
+45,male,2,free,little,little,7882,42,furniture/equipment,good
+53,male,2,free,little,little,4870,24,car,bad
+35,male,1,free,little,little,9055,36,education,good
+53,male,2,own,quite rich,little,2835,24,furniture/equipment,good
+35,male,3,rent,little,little,6948,36,car,good
+61,male,2,own,rich,little,3059,12,radio/TV,good
+28,male,3,own,little,moderate,5234,30,car,bad
+25,female,2,rent,moderate,little,1295,12,car,bad
+24,female,2,rent,little,little,4308,48,business,bad
+60,male,3,own,little,little,1567,12,radio/TV,good
+28,male,3,rent,little,little,1199,24,car,good
+32,female,2,own,little,little,1403,15,car,good
+23,female,2,rent,little,little,1282,24,radio/TV,bad
+34,male,3,own,moderate,little,8072,30,business,good
+31,male,2,own,little,moderate,1257,12,radio/TV,good
+48,male,3,own,little,little,2234,24,furniture/equipment,good
+44,female,2,own,little,little,1376,18,car,good
